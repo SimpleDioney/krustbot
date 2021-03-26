@@ -1,0 +1,17 @@
+{
+  "enquete": [
+    {
+      "id": "1",
+      "enquete": 0
+    }
+  ],
+  "membros": [],
+  "votos": [
+    {
+      "id": 3,
+      "votosp": 0,
+      "votosn": 0
+    }
+  ],
+  "avisos": []
+}
